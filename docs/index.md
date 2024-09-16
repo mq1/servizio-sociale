@@ -39,9 +39,6 @@ linee in alto a sinistra
 
 Pausa Pranzo @Unibo
 
-Dal 5 agosto all'1 settembre 2024 i Punti Ristoro Pausa Pranzo @Unibo resteranno
-chiusi per la pausa estiva.
-
 - Via Petroni, angolo Piazza Verdi.
   dal lunedì al venerdì, dalle 12:00 alle 15:00
 - Via Azzo Gardino n. 33, presso il Centro Polifunzionale Unione
