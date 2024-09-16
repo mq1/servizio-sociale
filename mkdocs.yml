@@ -1,0 +1,9 @@
+site_name: Servizio Sociale 2024-2025
+site_url: https://mq1.github.io/servizio-sociale
+theme:
+  name: material
+  language: it
+  features:
+    - navigation.tabs
+  icon:
+    logo: material/looks
