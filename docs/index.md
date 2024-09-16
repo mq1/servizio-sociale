@@ -15,6 +15,8 @@ linee in alto a sinistra
 - Può capitare che l'esame venga spezzato in due parziali, in date diverse
 - Gli esami possono essere sia orali, sia a crocette, sia a domande aperte
 - Lezione a frequenza obbligatoria significa di solito che è obbligatorio presentarsi ai 2/3 delle lezioni
+- Possiamo seguire anche le lezioni di altri corsi, ma gli esami? Possiamo contattare la responsabile
+  del nostro corso e chiederle se può farcelo valere come esame a scelta del terzo anno.
 
 ### ⚠️ La roba dei crediti
 
@@ -23,6 +25,15 @@ linee in alto a sinistra
 - I crediti li hai tutti a prescindere dal voto che prendi (ovviamente se lo passi)
 - I crediti sono molto importanti per la media degli esami, infatti si calcola la media ponderata in base al numero di crediti di quell'esame
 - La media ponderata viene usata per calcolare la base di laurea
+
+- Al terzo anno avremo 12 crediti da conseguire con esami a scelta.
+  Li possiamo scegliere dall'elenco di esami a scelta.
+  Possiamo darne quanti vogliamo, ma la somma dei crediti deve essere minimo 12 e massimo 24.
+  Perchè darne di più? Per arricchire il libretto universitario (utile per accedere alle magistrali).
+  Tipo una magistrale può richiedere un tot di crediti in M-PSI (esami di psicologia).
+  E quando ci siamo laureati dare esami in più da non iscritti ci costa soldoni.
+
+- Possiamo tranquillamente seguire tutte le lezioni che vogliamo, e non siamo obbligati a dare esami se queste sono facoltative
 
 ## 🍕 Dove mangiare
 
