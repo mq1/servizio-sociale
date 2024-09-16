@@ -7,6 +7,23 @@ linee in alto a sinistra
 
 🛜 Come connettersi alla wifi 👉 [almawifi](https://www.unibo.it/it/studiare/vivere-luniversita-e-la-citta/wi-fi/almawifi)
 
+## ℹ️ Cose generiche uni
+
+- L'esame lo puoi dare ad ogni sessione, anche degli anni successivi
+- Hai 2 o 3 tentativi per sessione
+- Ovviamente devi prenotarti per dare l'esame
+- Può capitare che l'esame venga spezzato in due parziali, in date diverse
+- Gli esami possono essere sia orali, sia a crocette, sia a domande aperte
+- Lezione a frequenza obbligatoria significa di solito che è obbligatorio presentarsi ai 2/3 delle lezioni
+
+### ⚠️ La roba dei crediti
+
+- Ogni esame vale tot crediti
+- Più crediti ha un esame, più è corposo in termini di materiale di studio (indicativamente)
+- I crediti li hai tutti a prescindere dal voto che prendi (ovviamente se lo passi)
+- I crediti sono molto importanti per la media degli esami, infatti si calcola la media ponderata in base al numero di crediti di quell'esame
+- La media ponderata viene usata per calcolare la base di laurea
+
 ## 🍕 Dove mangiare
 
 Pausa Pranzo @Unibo
