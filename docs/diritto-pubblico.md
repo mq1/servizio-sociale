@@ -1,8 +1,8 @@
 # 👮 Diritto pubblico e diritto dei servizi sociali
 
-<https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=B2776&annoAccademico=2024&codiceCorso=8040&single=True&search=True>
+🌐 Pagina del corso 👉 [link](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=B2776&annoAccademico=2024&codiceCorso=8040&single=True&search=True)
 
-<https://virtuale.unibo.it/course/view.php?id=61111>
+🌐 Corso su virtuale 👉 [link](https://virtuale.unibo.it/course/view.php?id=61111)
 
 - Esame orale
 - 4 domande (2 per parte)
