@@ -7,6 +7,12 @@ linee in alto a sinistra
 
 🛜 Come connettersi alla wifi 👉 [almawifi](https://www.unibo.it/it/studiare/vivere-luniversita-e-la-citta/wi-fi/almawifi)
 
+🔒 Cambio password unibo 👉 [dsa](https://dsa.unibo.it/Home.aspx)
+
+🌐 Virtuale 👉 [virtuale](https://virtuale.unibo.it/)
+
+📞 Gruppo Whatsapp 👉 [link](https://chat.whatsapp.com/BOBDviwKb4H1Or5lwipWdD)
+
 ## ℹ️ Cose generiche uni
 
 - L'esame lo puoi dare ad ogni sessione, anche degli anni successivi
