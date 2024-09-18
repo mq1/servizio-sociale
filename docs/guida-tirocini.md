@@ -2,15 +2,28 @@
 
 ## 2024-09-16
 
-Tenere d'occhio la location perchè si sposta
+🗺️ Tenere d'occhio la location perchè si sposta
 
-Ci sono 2 tirocini: chiedere come si fa per me faccio 2 anni  
+Ci sono 2 tirocini: chiedere come si fa per me che faccio 2 anni invece che 3  
 Di solito si fanno: secondo sem 2° anno + primo sem 3° anno
 
-### Libri
+!!! quote "Libri"
 
-- laboratorio di guida al tirocinio in servizio sociale
-- il colloquio di aiuto
-- le nuove sfide dell'assistente sociale
+    📖 Laboratorio di guida al tirocinio in servizio sociale<br>
+    📖 Il colloquio di aiuto<br>
+    📖 Le nuove sfide dell'assistente sociale
 
 Verranno tanti ospiti per traumatizzarci
+
+## 2024-09-18
+
+📖 Molto importante il codice deontologico (è anche una guida sul piano etico)
+
+L'assistente sociale sfrutta le proprie competenze per aiutare le persone ad aiutarsi
+
+Assistenza sociale:
+
+- Prevenzione molto importante (cosa poco fattibile comunque)
+- Tecniche sempre in evoluzione
+- Procedure sempre ad hoc
+- Accompagnamento sociale -> approccio graduale

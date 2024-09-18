@@ -1,17 +1,17 @@
 # 🌈 Servizio Sociale
 
-## Appunti e robe utili
+!!! info "Appunti e robe utili"
 
-📝 Gli appunti sono nella barra in alto, se hai lo schermo piccolo ci sono le tre
-linee in alto a sinistra
+    📝 Gli appunti sono nella barra in alto, se hai lo schermo piccolo ci sono le tre
+    linee in alto a sinistra
 
-🛜 Come connettersi alla wifi 👉 [almawifi](https://www.unibo.it/it/studiare/vivere-luniversita-e-la-citta/wi-fi/almawifi)
+    🛜 Come connettersi alla wifi 👉 [almawifi](https://www.unibo.it/it/studiare/vivere-luniversita-e-la-citta/wi-fi/almawifi)
 
-🔒 Cambio password unibo 👉 [dsa](https://dsa.unibo.it/Home.aspx)
+    🔒 Cambio password unibo 👉 [dsa](https://dsa.unibo.it/Home.aspx)
 
-🌐 Virtuale 👉 [virtuale](https://virtuale.unibo.it/)
+    🌐 Virtuale 👉 [virtuale](https://virtuale.unibo.it/)
 
-📞 Gruppo Whatsapp 👉 [link](https://chat.whatsapp.com/BOBDviwKb4H1Or5lwipWdD)
+    📞 Gruppo Whatsapp 👉 [link](https://chat.whatsapp.com/BOBDviwKb4H1Or5lwipWdD)
 
 ## ℹ️ Cose generiche uni
 
