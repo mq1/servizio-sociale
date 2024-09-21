@@ -27,3 +27,9 @@ Assistenza sociale:
 - Tecniche sempre in evoluzione
 - Procedure sempre ad hoc
 - Accompagnamento sociale -> approccio graduale
+
+## 2024-09-19
+
+- l'assistente sociale deve sempre trovare un equilibrio tra empatia e distacco
+- appunto mio: cercare di non avere un atteggiamento paternalistico
+- l'obiettivo del sociale è esprimere una valutazione != giudizio
