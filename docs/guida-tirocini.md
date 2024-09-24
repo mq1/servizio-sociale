@@ -33,3 +33,7 @@ Assistenza sociale:
 - l'assistente sociale deve sempre trovare un equilibrio tra empatia e distacco
 - appunto mio: cercare di non avere un atteggiamento paternalistico
 - l'obiettivo del sociale è esprimere una valutazione != giudizio
+
+## 2024-09-23
+
+Gli assistenti sociali non rubano i bambini

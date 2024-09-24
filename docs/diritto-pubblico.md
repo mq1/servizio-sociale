@@ -155,3 +155,67 @@ Principio della tipicità degli atti
 
 - Stato unitario -> potere allo stato centrale
 - Stato composto -> potere distribuito tra stato centrale e enti territoriali
+
+## 2024-09-24
+
+Oggi gli appunti sono fatti col cazzo, non so se manca qualcosa, li devo ricontrollare
+
+### La Crisi dello Stato Liberale di Diritto
+
+🤕 La crisi dello Stato Liberale di Diritto: forma di Stato che si è dimostrata incapace di resistere all'allargamento della base sociale determinato dall'estensione del suffragio universale.
+
+- La Costituzione italiana (1948) riconosce la sovranità popolare, ma le libertà garantite sono ancora quelle negative (libertà di pensiero, parola, assemblea)
+- Il diritto di proprietà è tutelato, mentre i diritti sociali e economici non lo sono
+
+📊 La crisi dello Stato Liberale di Diritto: cause
+
+1. 🤝 Il ruolo centrale del Parlamento: il Parlamento si ritaglia un ruolo dominante, senza sufficienti garanzie contro leggi incostituzionali.
+2. 🔒 Assenza di garanzie contro leggi incostituzionali: la Costituzione è flessibile e può essere modificata facilmente, il che non offre sufficienti protezioni alle minoranze.
+
+🔥 La crisi dello Stato Liberale di Diritto: conseguenze
+
+1. 🤯 Lo Stato pluriclasse: le classi sociali diverse contribuiscono al governo politico della nazione.
+2. 🔴 Crollo delle forme di Stato liberale di diritto: in alcuni paesi, la forma di Stato liberale di diritto è stata sostituita da forme di Stato autoritarie o totalitarie.
+
+### Stato Pluralista 🌎
+
+Lo stato pluralista è una forma di governo che riconosce e valorizza la diversità dei cittadini. È come un grande giardino dove ogni albero (gruppo) ha il suo spazio e può crescere senza essere oppresso dagli altri.
+
+Principi:
+
+- Tutti i soggetti sono uguali davanti alla legge 💡
+- La maggioranza deve rispettare la minoranza ⚖️
+- Libere elezioni per una libera competizione 🗳️
+
+### Lo Stato Democratico
+
+Un sistema democratico è quello in cui esiste una tendenziale corrispondenza tra governanti e governati.
+
+- Libere elezioni 🗳️: il popolo può scegliere i propri rappresentanti.
+- Principio di maggioranza ⭐️: la maggioranza vince, ma deve rispettare le minoranze.
+- Garanzie verso le minoranze 🤝: sono protette dalle violazioni dei loro diritti.
+- Libere elezioni per libera competizione 🏃‍♂️: i candidati possono concorrere senza restrizioni.
+- Procedimento aggravato di revisione costituzionale: è necessaria una maggioranza più ampia per modificare la Costituzione.
+
+💡 Lo Stato Contemporaneo come Stato Costituzionale
+
+1. 🔒 La Costituzione rigida : la forma di Stato è caratterizzata da una Costituzione rigida, che si pone al vertice del sistema delle fonti.
+2. 🚫 Giustizia costituzionale : l'istituto della giustizia costituzionale consente di eliminare le leggi contrarie alla Costituzione.
+
+### Stato Sociale 💕
+
+Lo stato sociale è un sistema di governo che ha come fine l'uguaglianza sostanziale, cioè l'uguaglianza di risultato per tutti i cittadini. È come avere un grande team dove ogni membro lavora insieme per il bene comune.
+
+Principi:
+
+- Uguaglianza sostanziale per tutti i cittadini 💕
+- Rimozione delle differenze che ostacolano l'uguaglianza formale 🔄
+
+### Stato Decentrato 🏙️
+
+Lo stato decentrato è un sistema di governo che distribuisce il potere decisionale sul territorio, in favore di enti locali. È come avere dei comitati di quartiere che prendono decisioni per i loro residenti.
+
+Principi:
+
+- Distribuzione del potere decisionale sul territorio 🗺️
+- Autonomia locale per le scelte migliori per ogni zona 🏙️
