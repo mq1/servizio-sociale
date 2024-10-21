@@ -1,1 +1,2 @@
 mkdocs-material == 9.*
+python-markdown-math == 0.8
